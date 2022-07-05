@@ -1,0 +1,59 @@
+.myDiv {
+  
+ 
+  
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .Birthdays
+  {
+      padding: 2%;
+      font-size: 30px;
+      
+      background-color:DodgerBlue;
+  }
+  
+  body{
+      text-align: center;
+      font-size:large;
+  }
+  h1 {
+    color: white;
+  }
+  
+  h2{
+      color:black;
+      text-align: center;
+      background-color: white;
+  
+  }
+  .button{
+      background-color: lightblue;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  h3{
+      color:black;
+       font-size: 30px;
+  }
+  table{
+  font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td,th{
+  border: 1px solid white;
+    padding: 5px;
+  }
+  tr:nth-child(even) {
+  
+     text-align: center;
+    background-color: #E3F2FD ;
+  }
